@@ -20,4 +20,5 @@ Tämän tehtävän ovat tehneet
 - Teemu Heikkilä
 - Heikki Laakkonen
 - Heini Rinne
+- Eero Holopainen
 - Juuso Hietanen
