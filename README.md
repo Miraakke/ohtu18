@@ -23,3 +23,5 @@ Tämän tehtävän ovat tehneet
 - Eero Holopainen
 - Juuso Hietanen
 - Vili Tuori
+- Joni Koivuranta
+- Jere pulkka
