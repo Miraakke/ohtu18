@@ -22,3 +22,4 @@ Tämän tehtävän ovat tehneet
 - Heini Rinne
 - Eero Holopainen
 - Juuso Hietanen
+- Vili Tuori
