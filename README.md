@@ -22,4 +22,5 @@ Tämän tehtävän ovat tehneet
 - Heini Rinne
 - Eero Holopainen
 - Juuso Hietanen
+- Joni Koivuranta
 - Jere pulkka
