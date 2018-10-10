@@ -26,3 +26,6 @@ Tämän tehtävän ovat tehneet
 - Joni Koivuranta
 - Jere pulkka
 - Mira Rossi
+- Antony Smal
+- Santtu Sarlin
+
