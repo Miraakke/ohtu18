@@ -25,4 +25,5 @@ Tämän tehtävän ovat tehneet
 - Vili Tuori
 - Joni Koivuranta
 - Jere pulkka
+- Antony Smal
 - Santtu Sarlin
